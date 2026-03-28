@@ -462,4 +462,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Happy Learning!** This repository is designed to take you from Terraform beginner to advanced practitioner. Work through each folder systematically, experiment with configurations, and don't hesitate to modify examples for your specific use cases.
 
-For questions, issues, or suggestions, please open an issue in this repository.
+For questions, issues, or suggestions, please open an issue in this repository.               
